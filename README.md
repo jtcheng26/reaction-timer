@@ -1,3 +1,8 @@
+# Reaction Timer
+
+Just a fun reaction timer app.  
+Click the black screen to start and wait for it to turn green. Don't click on red.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
