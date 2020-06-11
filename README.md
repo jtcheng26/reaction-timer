@@ -1,8 +1,9 @@
 # Reaction Timer
 
 Just a fun reaction timer app.  
-Click the black screen to start and wait for it to turn green. Don't click on red.
-Try it here (https://jtcheng26.github.io/reaction-timer)!
+Click the black screen to start and wait for it to turn green. Don't click on red.   
+Results are shown every 6 trials.
+[Try it here](https://jtcheng26.github.io/reaction-timer)!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
